@@ -3,6 +3,8 @@
 2. Modals can show modals, can show modals.
 3. Works just fine on mobile in fullscreen mode
 
+[Live Demo](https://yas-modal.netlify.app/)
+
 # How to use
 ## 1. Install Tailwind CSS.
 Here is [how to](https://tailwindcss.com/docs/guides/sveltekit).

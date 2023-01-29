@@ -29,7 +29,7 @@
     "vite": "^4.0.0"
   },
   "type": "module",
-  "description": "1. Modals are always rendered in the div near the root of your app. That allows you not to think if some of the parents of your component has relativish position. 2. Modals can show modals, can show modals. 3. Works just fine on mobile in fullscreen mode",
+  "description": "Yet another svelte modal component. This one has a target.",
   "main": "svelte.config.js",
   "dependencies": {
     "acorn-walk": "^7.2.0",

@@ -27,7 +27,6 @@
         modal_target.appendChild(modal_content);
         document.body.classList.add('has_modal');
 
-        console.log(modals.length, layer, modals.length - 1 == layer);
         return () => {
             modals = modals.filter((m) => m !== modal_content);
 

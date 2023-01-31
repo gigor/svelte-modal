@@ -1,6 +1,6 @@
 {
   "name": "yas-modal",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "dev": "vite dev",
 	"build_doc": "vite build",
@@ -36,17 +36,17 @@
   "main": "svelte.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gigor/svelte-modal.git"
+    "url": "git+https://github.com/gigor/yas-modal.git"
   },
   "keywords": [
     "svelte",
     "modal",
     "tailwindcss"
   ],
-  "author": "gigor",
+  "author": "Igor Grechishkin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gigor/svelte-modal/issues"
+    "url": "https://github.com/gigor/yas-modal/issues"
   },
-  "homepage": "https://github.com/gigor/svelte-modal#readme"
+  "homepage": "https://github.com/gigor/yas-modal#readme"
 }
